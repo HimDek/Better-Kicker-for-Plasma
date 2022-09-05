@@ -46,6 +46,8 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
   <a href="https://www.opendesktop.org/p/1897850"><img height="50px" src="https://img.shields.io/badge/openDesktop-informational?style=for-the-badge&color=blueviolet" /></a>
 </p>
 
+<p align="center">Install it directly from any of the above mentioned sources</p>
+
 <p align="center">or</p>
 
 <p align="center">If you have download the file, extract it, open a terminal in the directory containing the `metadata.desktop` file and execute the following command:</p>
@@ -56,7 +58,7 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 
 ## Changes made over default Kicker:
 
-* Disabled the favorite applications shown in the side bar because the original Kicker Application Menu of KDE Plasma looks broken if too many Applications are added to favourites. favorite applications are now shown in a dedicated menu category
+* Disabled the favorite applications shown in the side bar because the original Kicker Application Menu of KDE Plasma looks broken if too many Applications are added to favourites. Favorite applications are now shown in a dedicated menu category
 * Shows all the session and power buttons viz Lock, Logout, Switch User, Sleep, Restart and Shut Down
 * Ability to enable or disable the `Favorites` menu category.
 * Powerfull and improved search: The search bar now supports all the features of Plasma Search or Krunner
