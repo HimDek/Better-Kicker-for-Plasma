@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://himdek.com/Simple-Kickoff-for-Plasma/"><h1 align="center">Better Kicker</h1></a>
+ <a href="https://himdek.com/Better-Kicker-for-Plasma/"><h1 align="center">Better Kicker</h1></a>
  <p align="center">An improved fork of KDE Plasma's Kicker Application Menu</p>
 </p>
 
