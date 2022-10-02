@@ -223,6 +223,6 @@ Kirigami.FormLayout {
         id: recentOrdering
 
         Kirigami.FormData.label: i18n("Sort items in categories by:")
-        model: [i18nc("@item:inlistbox Sort items in categories by [Recently used | Often used]", "Recently used"), i18nc("@item:inlistbox Sort items in categories by [Recently used | Ofetn used]", "Often used")]
+        model: [i18nc("@item:inlistbox Sort items in categories by [Recently used | Often used]", "Recently used"), i18nc("@item:inlistbox Sort items in categories by [Recently used | often used]", "Often used")]
     }
 }
