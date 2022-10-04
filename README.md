@@ -39,6 +39,11 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 * [KDE Plasma Desktop Environment](https://kde.org/plasma-desktop/)
 * [Plasma-Framework Package](https://github.com/KDE/plasma-framework)
 
+<p align=>Make sure you have plasma-framework package installed by execute the following command:</p>
+<p align=>
+  <pre>sudo apt install plasma-framework</pre>
+</p>
+
 <h1 align="center">Get it from</h1>
 
 <p align="center">
@@ -55,11 +60,6 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 
 <p align="center">
   <pre>kpackagetool5 -t Plasma/Applet --install</pre>
-</p>
-
-<p align="center">Now make sure you have plasma-framework package installed by execute the following command:</p>
-<p align="center">
-  <pre>sudo apt install plasma-framework</pre>
 </p>
 
 ## Changes made over default Kicker:
