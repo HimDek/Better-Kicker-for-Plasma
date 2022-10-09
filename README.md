@@ -37,6 +37,12 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 
 * Linux based Operating System
 * [KDE Plasma Desktop Environment](https://kde.org/plasma-desktop/)
+* [Plasma-Framework Package](https://github.com/KDE/plasma-framework)
+
+<p align=>Make sure you have plasma-framework package installed by execute the following command:</p>
+<p align=>
+  <pre>sudo apt install plasma-framework</pre>
+</p>
 
 <h1 align="center">Get it from</h1>
 

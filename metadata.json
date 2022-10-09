@@ -11,12 +11,15 @@
             }
         ],
         "Category": "Application Launchers",
+        "Category[nl]": "Applicatie Launchers",
         "Description": "An improved fork of Kicker Application Menu which is a launcher based on cascading popup menus",
+        "Description[nl]": "Een verbeterde vork van het Kicker-toepassingsmenu, een opstartprogramma dat is gebaseerd op trapsgewijze pop-upmenu's",
         "EnabledByDefault": true,
         "Icon": "start-here-kde",
         "Id": "org.kde.plasma.betterkicker",
         "License": "GPL-2.0+",
         "Name": "Better Application Menu",
+        "Name[nl]": "Beter applicatiemenu",
         "ServiceTypes": [
             "Plasma/Applet"
         ],

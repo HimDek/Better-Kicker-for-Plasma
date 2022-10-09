@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Better Application Menu
+Name[nl]=Beter applicatiemenu
 Comment=An improved fork of Kicker Application Menu which is a launcher based on cascading popup menus
+Comment[nl]=Een verbeterde vork van het Kicker-toepassingsmenu, een opstartprogramma dat is gebaseerd op trapsgewijze pop-upmenu's
 
 Type=Service
 Icon=start-here-kde
